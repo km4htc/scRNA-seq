@@ -3,7 +3,7 @@ I searched expression patterns of ~200 top hit genes manually against data from 
 
 Here's a screenshot video showing the script iterating over two genes:
 <video width="320" height="240" controls>
-  <source src="./scRNAseq-rice_files/ricexpro-py-example.mov" type="video/mov">
+  <source src="ricexpro-py-example.mov" type="video/mov">
 </video>
 
 
