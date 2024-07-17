@@ -5,6 +5,5 @@ I searched expression patterns of ~200 top hit genes manually against data from 
 
 
 [![example]([https://asciinema.org/a/113463.png](https://github.com/user-attachments/assets/e4e48376-2514-4d9a-a3eb-b5254f6f1aea
-))]([https://asciinema.org/a/113463](https://github.com/user-attachments/assets/e4e48376-2514-4d9a-a3eb-b5254f6f1aea
-))
+))]([https://asciinema.org/a/113463](https://github.com/user-attachments/assets/e4e48376-2514-4d9a-a3eb-b5254f6f1aea))
 
