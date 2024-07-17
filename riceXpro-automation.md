@@ -4,6 +4,6 @@ I searched expression patterns of ~200 top hit genes manually against data from 
 Here's a video screenshot that loops over two gene searches:
 
 <video width="320" height="240" controls>
-  <source src="automated-riceXpro-search.mov" type="video/mov">
+  <source src="scRNAseq-rice_files/example.mov" type="video/mov">
   Your browser does not support the video tag.
 </video>
