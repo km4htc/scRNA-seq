@@ -6,6 +6,8 @@ Here's a screenshot video showing the script iterating over two genes:
   <source src="ricexpro-py-example.mov" type="video/mov">
 </video>
 
+<img src="ricexpro-py-example.mov" type="video/mov"/>
+
 
 
 
