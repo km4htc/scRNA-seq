@@ -4,4 +4,4 @@ I searched expression patterns of ~200 top hit genes manually against data from 
 Here's a screenshot video showing the script iterating over two genes:
 ![example.mov]("scRNAseq-rice_files/example.mov")
 
-
+https://github.com/km4htc/scRNA-seq-rice/blob/master/riceXpro-automation.md#:~:text=figure%2Dgfm-,example,-.mov
